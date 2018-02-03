@@ -10,3 +10,4 @@ Experimenting with alternative computer architectures.
 * Memory as grid (closer to reality)
 * Memory as banks (closer to reality)
 * Stacks and registers
+* Instructions - Harvard vs von Neumann
